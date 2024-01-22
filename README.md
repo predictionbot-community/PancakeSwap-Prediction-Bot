@@ -24,11 +24,14 @@ The bot operates by:
 ## 📸 Screenshots
 ![Screenshot 1](https://img001.prntscr.com/file/img001/ptMUAPBZRwCCK4fHI7cnuQ.png)
 
-## 🛠 Installation
-Ensure Python is installed on your system before starting. Follow these steps to set up the bot:
+🛠 Installation
+Before starting the setup process, make sure you have Python installed on your system. This bot requires Python 3.6 or later. You can download Python from python.org.
+
+Follow these steps to set up the bot:
+
 1. Clone or download this repository.
 2. Navigate to the downloaded folder.
-3. Run `pip install -r requirements.txt` in your terminal or command line to install dependencies.
+3. Run pip install -r requirements.txt in your terminal or command line to install the necessary dependencies.
 
 ## ⚙️ Usage
 To start the bot, run the following command in your terminal or command line:
