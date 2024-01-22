@@ -32,3 +32,4 @@ Ensure Python is installed on your system before starting. Follow these steps to
 
 ## ⚙️ Usage
 To start the bot, run the following command in your terminal or command line:
+`python trader_start.py`
