@@ -35,4 +35,4 @@ Follow these steps to set up the bot:
 
 ## ⚙️ Usage
 To start the bot, run the following command in your terminal or command line:
-`python trader_start.py`
+`python Prediction_Bot_Start.py` or `start.bat`
