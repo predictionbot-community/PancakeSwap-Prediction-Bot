@@ -1,4 +1,4 @@
-# PancakeSwap Prediction Bot
+# 🥞 PancakeSwap Prediction Bot 🥞
 
 ![Banner Image](https://img001.prntscr.com/file/img001/bbkBUgGORFyzifwW13BVMw.png)
 
