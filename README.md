@@ -1,6 +1,6 @@
 ![image](https://img001.prntscr.com/file/img001/bbkBUgGORFyzifwW13BVMw.png)# PancakeSwap Prediction Bot
 
-![Banner Image]([link-to-banner-image](https://img001.prntscr.com/file/img001/bbkBUgGORFyzifwW13BVMw.png))
+![Banner Image](https://img001.prntscr.com/file/img001/bbkBUgGORFyzifwW13BVMw.png)
 
 ## 🚀 About
 PancakeSwap Prediction Bot is an advanced, open-source trading bot that offers automated trading and AI-powered analysis on the PancakeSwap platform. It's designed to help users maximize their trading efficiency by leveraging cutting-edge technologies.
@@ -22,7 +22,7 @@ The bot operates by:
 3. Executing trades deemed profitable by its predictive algorithms.
 
 ## 📸 Screenshots
-![Screenshot 1]([link-to-screenshot-1]([https://raw.githubusercontent.com/bobalice7/PCS-Prediction/main/img/setup.jpg](https://img001.prntscr.com/file/img001/ptMUAPBZRwCCK4fHI7cnuQ.png)))
+![Screenshot 1](https://img001.prntscr.com/file/img001/ptMUAPBZRwCCK4fHI7cnuQ.png)
 
 ## 🛠 Installation
 Ensure Python is installed on your system before starting. Follow these steps to set up the bot:
